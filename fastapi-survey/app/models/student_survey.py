@@ -1,4 +1,3 @@
-# app/models/student_survey.py
 from sqlalchemy import Column, String, Integer, Date, Enum, JSON
 from sqlalchemy.orm import relationship
 from sqlalchemy.dialects.mysql import ENUM
